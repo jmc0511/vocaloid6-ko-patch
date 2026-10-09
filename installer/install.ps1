@@ -40,7 +40,11 @@ $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -AllowStartIfOnBatt
 Register-ScheduledTask -TaskName $TaskName -Action $action -Trigger $logon, $periodic, $msi `
     -Principal $principal -Settings $settings -Description 'VOCALOID6 Editor 비공식 한글 패치를 최신으로 유지합니다.' -Force | Out-Null
 
-# 3) 바로 한 번 실행
+# 3) 바로 한 번 실행 (에디터가 켜져 있으면 파일을 바꿀 수 없으므로 종료를 기다린다)
+while (Get-Process VOCALOID6 -ErrorAction SilentlyContinue) {
+    Write-Host 'VOCALOID6 Editor가 실행 중입니다. 에디터를 종료한 뒤 엔터를 누르세요.' -ForegroundColor Yellow
+    Read-Host | Out-Null
+}
 Write-Host '최신 번역을 내려받는 중...'
 & powershell -NoProfile -ExecutionPolicy Bypass -File "$InstallDir\updater.ps1"
 if ($LASTEXITCODE -ne 0) { throw "업데이터 실행 실패. 로그: $InstallDir\updater.log" }
