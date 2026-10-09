@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- 위성 리소스 어셈블리 빌드용. 사용:
+       dotnet build -p:SatName=VOCALOID6 -p:SatCulture=en-US -p:SatVersion=6.13.3.1 -p:ResFile=경로\x.resources -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>$(SatName).resources</AssemblyName>
+    <Version>$(SatVersion)</Version>
+    <AssemblyVersion>$(SatVersion)</AssemblyVersion>
+    <FileVersion>$(SatVersion)</FileVersion>
+    <!-- install.ps1이 패치본과 원본을 구분하는 표식 -->
+    <AssemblyTitle>VOCALOID6 KoPatch</AssemblyTitle>
+    <InformationalVersion>$(PatchVersion)</InformationalVersion>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+    <EnableDefaultEmbeddedResourceItems>false</EnableDefaultEmbeddedResourceItems>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
+    <GenerateDependencyFile>false</GenerateDependencyFile>
+    <DebugType>none</DebugType>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <BaseIntermediateOutputPath>obj\$(SatName)\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(ResFile)" LogicalName="Yamaha.VOCALOID.Properties.Resources.$(SatCulture).resources" WithCulture="false" />
+    <AssemblyAttribute Include="System.Reflection.AssemblyCultureAttribute">
+      <_Parameter1>$(SatCulture)</_Parameter1>
+    </AssemblyAttribute>
+  </ItemGroup>
+</Project>

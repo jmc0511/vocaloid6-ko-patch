@@ -1,0 +1,734 @@
+key	en	ko
+AboutDlg_Title	About VOCALOID6 Editor	VOCALOID6 Editor 정보
+AddAudioPartToMediaDlg_Title	Add Audio Part to Media	오디오 파트를 미디어에 추가
+AddPartToMediaDlg_AddNewTagDlg_TagName	Tag Name	태그 이름
+AddPartToMediaDlg_AddNewTagDlg_Title	Add	추가
+AddPartToMediaDlg_Button_AddNewGenre	Add New Color	Color 추가
+AddPartToMediaDlg_Button_AddNewType	Add New Type	Type 추가
+AddPartToMediaDlg_CannotSave	A media file with this name already exists. It cannot be overwritten.	같은 이름의 미디어가 이미 있어 저장할 수 없습니다.
+AddPartToMediaDlg_MediaName	Media Name	미디어 이름
+AddTrackDlg_Creation_Caption	Create	만들기
+AddTrackDlg_PartDuration_Caption	Part Duration	파트 길이
+AddTrackDlg_Title	Add Track	트랙 추가
+AddTrackDlg_TrackCount_Caption	Track Count	트랙 수
+AddTrackDlg_TrackName_Caption	Track Name	트랙 이름
+AddTrackDlg_VoiceBank_Caption	Voice	보이스
+AddVocaloidPartToMediaDlg_Title	Add VOCALOID Part to Media	VOCALOID 파트를 미디어에 추가
+AiVibrato_Label	Assist	어시스트
+AudioEffectWindow_EffectList	Effect List	이펙트 목록
+AudioEffectWindow_MasterTitle	MAIN	MAIN
+AudioEffectWindow_TrackTitlePrefix	Track	트랙
+AudioMixdownDlg_AudioEngineOutput	Audio Engine Output	오디오 엔진 출력
+AudioMixdownDlg_BitDepth	Bit Depth	비트 심도
+AudioMixdownDlg_BypassEffectPlugins	Bypass Effect Plug-ins	오디오 이펙트 바이패스
+AudioMixdownDlg_Channel	Channel	채널
+AudioMixdownDlg_Channel_Mono	Mono	모노
+AudioMixdownDlg_Channel_Stereo	Stereo	스테레오
+AudioMixdownDlg_MasterTrack	Main Track	메인 트랙
+AudioMixdownDlg_MultiTrack	Multi Track	멀티 트랙
+AudioMixdownDlg_OpenExplorer	Open folder after export to audio file	오디오 내보내기 후 폴더 열기
+AudioMixdownDlg_OverwriteInfo	A file with this name already exists. Overwrite existing file?	같은 이름의 파일이 이미 있습니다. 덮어쓰시겠습니까?
+AudioMixdownDlg_SamplingRate	Sampling Rate	샘플링 레이트
+AudioMixdownDlg_Title	Audio Mixdown	오디오 믹스다운
+AudioMixdownDlg_TrackName	Name	이름
+AudioMixdownDlg_TrackNumber	Number	번호
+AudioMixdownDlg_TrackSelection	Track Selection	트랙 선택
+AudioMixdownDlg_TrackType	Type	종류
+AudioMixdownPartDlg_Title	Export to Audio File	파트를 오디오로 내보내기
+AudioMixdownProgressDlg_Title	Audio Mixdown	오디오 믹스다운
+Button_Cancel	Cancel	취소
+Button_Close	Close	닫기
+Button_OK	OK	확인
+Button_ResetMainTuning	Reset	초기화
+CheckInstallStatus_Title	Installed Products	설치된 제품
+CheckUpdate_Button_No	Remind Me Later	나중에
+CheckUpdate_Button_Yes	Update Now (Launch Browser)	지금 업데이트 (웹 브라우저 실행)
+CheckUpdate_CheckBox_DontCheckOnStartup	Don't check for updates upon launch.	시작 시 업데이트 확인 안 함
+CheckUpdate_Description1	A new version of VOCALOID Editor is available to download.	새 버전의 VOCALOID Editor를 다운로드할 수 있습니다.
+CheckUpdate_Description2	Update now?	지금 업데이트하시겠습니까?
+CheckUpdate_GettingInfomation_Error	Failed to get updater information.	업데이트 확인에 실패했습니다.
+CheckUpdate_Title	Check for Updates	업데이트 확인
+CheckUpdate_UpToDate	Your software is up to date.	최신 버전입니다.
+CheckUpdate_Waiting	Getting Updater Information.	업데이트 정보를 가져오는 중
+ContentList_GettingInfomation_Error	Failed to get content information.	콘텐츠 정보를 가져오지 못했습니다.
+ContentList_Waiting	Getting content information.	콘텐츠 정보를 가져오는 중입니다.
+ContextMenu_AddAudioTrack_Header	Add Audio Track(_W)	오디오 트랙 추가(_W)
+ContextMenu_AddMidiAiTrack_Header	Add VOCALOID:AI Track(_I)	VOCALOID:AI 트랙 추가(_I)
+ContextMenu_AddMidiTrack_Header	Add VOCALOID Track(_V)	VOCALOID 트랙 추가(_V)
+ContextMenu_AddPartToMedia	Add Part to Media(_M)...	파트를 미디어에 추가(_M)...
+ContextMenu_AddTrack_Header	Add Track...	트랙 추가...
+ContextMenu_Amplitude_Header	Expression(_M)	익스프레션(_M)
+ContextMenu_Arrow_Header	Arrow(_A)	화살표(_A)
+ContextMenu_AudioEffect_AllDelEffect	Delete All Audio Effects(_A)	모든 오디오 이펙트 삭제(_A)
+ContextMenu_AudioEffect_DelEffect	Delete Audio Effect(_D)	오디오 이펙트 삭제(_D)
+ContextMenu_AudioMixdownPart_Header	Export to Audio File(_E)...	파트를 오디오로 내보내기(_E)...
+ContextMenu_ChangePhoneticSymbolProtect_Header	Phoneme Lock(_P)	발음 기호 잠금(_P)
+ContextMenu_CloseParameterControl_Header	Close	닫기
+ContextMenu_Copy_Header	Copy(_C)	복사(_C)
+ContextMenu_Cut_Header	Cut(_T)	잘라내기(_T)
+ContextMenu_Delete_Header	Delete(_D)	삭제(_D)
+ContextMenu_DivideNote_Header	Divide Note Equally(_D)	노트 균등 분할(_D)
+ContextMenu_Double_Tempo	Double Tempo	더블 템포
+ContextMenu_DuplicateTrack_Header	Duplicate Track	트랙 복제
+ContextMenu_EditDuplicate_Header	Duplicate(_D)	복제(_D)
+ContextMenu_Emotion_Header	Emotion(_E)	이모션(_E)
+ContextMenu_EndMarker_Move_Header	Set End Marker to Song Position(_E)	종료 마커를 재생 위치로 설정(_E)
+ContextMenu_ExtractLyrics_Header	Extract Lyrics(_X)	가사 추출(_X)
+ContextMenu_FullQuantizeNotes_Header	Quantize	퀀타이즈
+ContextMenu_HalfQuantizeNotes_Header	Quantize 50%	퀀타이즈 50%
+ContextMenu_Half_Tempo	Half Tempo	하프 템포
+ContextMenu_InsertRest_Header	Insert Rest(_I)	쉼표 삽입(_I)
+ContextMenu_JoinNotes_Header	Join Notes(_J)	노트 합치기(_J)
+ContextMenu_JoinSelectedParts_Header	Join Parts(_J)	파트 합치기(_J)
+ContextMenu_Line_Header	Line(_L)	라인(_L)
+ContextMenu_LyricMoveLeft_Header	Shift Lyrics Left(_L)	가사를 한 글자 앞으로(_L)
+ContextMenu_LyricMoveRight_Header	Shift Lyrics Right(_R)	가사를 한 글자 뒤로(_R)
+ContextMenu_MSDandWavExport_Header	MSD and Export to WAV(_W)...	MSD 포함 WAV 내보내기(_W)...
+ContextMenu_Media_DeleteClip	Delete Media(_D)	미디어 삭제(_D)
+ContextMenu_Media_EditClip	Edit Media Properties(_E)	미디어 정보 편집(_E)
+ContextMenu_MidiTrack_AddMidiPart_Header	Create Part on Song Position(_P)	재생 위치에 새 파트 만들기(_P)
+ContextMenu_MusicalEditorJob_Header	Job(_J)	작업(_J)
+ContextMenu_New_Header	Create Time Signature on Song Position(_N)	재생 위치에 박자 이벤트 만들기(_N)
+ContextMenu_NormalizeNote_Header	Resolve Overlaps(_N)	겹친 노트 정리(_N)
+ContextMenu_NormalizeWave_Header	Normalize Audio Wave(_N)	오디오 파트 게인 노멀라이즈(_N)
+ContextMenu_PaintToolGroup_Header	Paint Tool Group(_P)	페인트 도구 그룹(_P)
+ContextMenu_PasteNoteProperty_Header	Paste Special	선택하여 붙여넣기
+ContextMenu_PastePartProperty_Header	Paste Special	선택하여 붙여넣기
+ContextMenu_Paste_Header	Paste(_P)	붙여넣기(_P)
+ContextMenu_Pencil_Header	Pencil(_P)	연필(_P)
+ContextMenu_PhonemeTiming_Header	Timing(_H)	타이밍(_H)
+ContextMenu_PitchToolGroup_Header	Pitch Tool Group(_P)	피치 도구 그룹(_P)
+ContextMenu_RenamePart_Header	Edit Part Name	파트 이름 변경
+ContextMenu_Repeat_Playback_Header	Repeat(_R)	반복(_R)
+ContextMenu_ResetControlParametersToDefault_Header	Reset Control Parameters to Default	컨트롤 파라미터를 기본값으로 초기화
+ContextMenu_ResetLyrics_Header	Reset Lyrics(_R)	가사 초기화(_R)
+ContextMenu_Scissors_Header	Scissors(_S)	가위(_S)
+ContextMenu_SelectAllControlParameters_Header	Select All Control Parameters(_P)	모든 컨트롤 파라미터 선택(_P)
+ContextMenu_SelectAllMasterVolumes_Header	Select All Main Volumes(_M)	모든 메인 볼륨 이벤트 선택(_M)
+ContextMenu_SelectAllNotes_Header	Select All Notes(_N)	모든 노트 선택(_N)
+ContextMenu_SelectAllTempos_Header	Select All Tempos(_T)	모든 템포 이벤트 선택(_T)
+ContextMenu_SelectAllTimeSigs_Header	Select All Time Signatures(_T)	모든 박자 이벤트 선택(_T)
+ContextMenu_SelectAll_Header	Select All(_A)	모두 선택(_A)
+ContextMenu_SetRepeatToSelectionRange_Header	Set Repeat to Selection Range	선택 구간을 반복 구간으로 설정
+ContextMenu_SplitNote_Header	Split Note(_P)	노트 분할(_P)
+ContextMenu_StaccatoNote_Header	Staccato(_S)	스타카토(_S)
+ContextMenu_StartMarker_Move_Header	Set Start Marker to Song Position(_S)	시작 마커를 재생 위치로 설정(_S)
+ContextMenu_StyleSearch_DeleteStylePreset	Delete Style Presets(_D)	스타일 프리셋 삭제(_D)
+ContextMenu_StyleSearch_EditStylePreset	Edit Style Preset Properties(_E)	스타일 프리셋 정보 편집(_E)
+ContextMenu_TransposeNote_Header	Transpose(_T)	트랜스포즈(_T)
+ContextMenu_Vibrato_Header	Vibrato(_I)	비브라토(_I)
+ConvertPhoneticSymbolsDlg_Languages_Chinese	Chinese	중국어
+ConvertPhoneticSymbolsDlg_Languages_English	English	영어
+ConvertPhoneticSymbolsDlg_Languages_Japanese	Japanese	일본어
+ConvertPhoneticSymbolsDlg_Languages_Korean	Korean	한국어
+ConvertPhoneticSymbolsDlg_Languages_Spanish	Spanish	스페인어
+ConvertPhoneticSymbolsDlg_Lauguage	Please select a language	언어를 선택하세요
+ConvertPhoneticSymbolsDlg_Title	Convert Phonemes to Match Language	발음 기호를 언어에 맞게 변환
+CustomizeShortcutDlg_ChageedImportPresetFile	Set the current preset to the imported one?	가져온 프리셋으로 전환하시겠습니까?
+CustomizeShortcutDlg_ChangePresetName	Rename	이름 변경
+CustomizeShortcutDlg_CommandBeginEditSongPosition	Edit Song Position	재생 위치 편집
+CustomizeShortcutDlg_CommandChangeInputtingMode	Change Lyric Input Mode	가사 입력 모드 변경
+CustomizeShortcutDlg_CommandDivideNote	Divide Note	노트 균등 분할
+CustomizeShortcutDlg_CommandDoubleTempo	Double Tempo	더블 템포
+CustomizeShortcutDlg_CommandExtractLyrics	Extract Lyrics	가사 추출
+CustomizeShortcutDlg_CommandFastForwardByBar	Fast Forward by Bar	마디 단위 빨리 감기
+CustomizeShortcutDlg_CommandFastRewindByBar	Fast Rewind by Bar	마디 단위 빨리 되감기
+CustomizeShortcutDlg_CommandForwardByBar	Forward by Bar	마디 단위로 앞으로
+CustomizeShortcutDlg_CommandForwardByGrid	Forward by Grid	그리드 단위로 앞으로
+CustomizeShortcutDlg_CommandFullQuantizeNotes	Quantize	퀀타이즈
+CustomizeShortcutDlg_CommandHalfQuantizeNotes	Quantize 50%	퀀타이즈 50%
+CustomizeShortcutDlg_CommandHalfTempo	Half Tempo	하프 템포
+CustomizeShortcutDlg_CommandImportAudio	Import - Audio File	가져오기 - 오디오 파일
+CustomizeShortcutDlg_CommandImportMidi	Import - MIDI File	가져오기 - MIDI 파일
+CustomizeShortcutDlg_CommandImportPpsf	Import - PPSF File	가져오기 - PPSF 파일
+CustomizeShortcutDlg_CommandImportTempoAndTimeSig	Import - Tempo and Time Signature	가져오기 - 템포와 박자
+CustomizeShortcutDlg_CommandImportVpr	Import - VPR File	가져오기 - VPR 파일
+CustomizeShortcutDlg_CommandImportVsqx	Import - VSQX File	가져오기 - VSQX 파일
+CustomizeShortcutDlg_CommandInsertRest	Insert Rest	쉼표 삽입
+CustomizeShortcutDlg_CommandJoinNotes	Join Notes	노트 합치기
+CustomizeShortcutDlg_CommandNameHeader	Command	명령
+CustomizeShortcutDlg_CommandNormalizeNote	Delete Overlaps	겹친 노트 정리
+CustomizeShortcutDlg_CommandPasteNoteProperty	Note - Paste Special	노트 - 선택하여 붙여넣기
+CustomizeShortcutDlg_CommandPastePartProperty	Part - Paste Special	파트 - 선택하여 붙여넣기
+CustomizeShortcutDlg_CommandQuantize1	Grid - 1/1	그리드 - 1/1
+CustomizeShortcutDlg_CommandQuantize16	Grid - 1/16	그리드 - 1/16
+CustomizeShortcutDlg_CommandQuantize2	Grid - 1/2	그리드 - 1/2
+CustomizeShortcutDlg_CommandQuantize32	Gird - 1/32	그리드 - 1/32
+CustomizeShortcutDlg_CommandQuantize4	Grid - 1/4	그리드 - 1/4
+CustomizeShortcutDlg_CommandQuantize64	Grid - 1/64	그리드 - 1/64
+CustomizeShortcutDlg_CommandQuantize8	Grid - 1/8	그리드 - 1/8
+CustomizeShortcutDlg_CommandQuantizeNext	Next Grid	다음 그리드
+CustomizeShortcutDlg_CommandQuantizeOff	Grid - Off	그리드 - 끄기
+CustomizeShortcutDlg_CommandQuantizePrevious	Previous Grid	이전 그리드
+CustomizeShortcutDlg_CommandQuantizeTriplet	Grid - Triplet	그리드 - 셋잇단음표
+CustomizeShortcutDlg_CommandResetControlParametersToDefault	Reset Control Parameters to Default	컨트롤 파라미터를 기본값으로 초기화
+CustomizeShortcutDlg_CommandResetLyrics	Reset Lyrics	가사 초기화
+CustomizeShortcutDlg_CommandRewindByBar	Rewind by Bar	마디 단위로 뒤로
+CustomizeShortcutDlg_CommandRewindByGrid	Rewind by Grid	그리드 단위로 뒤로
+CustomizeShortcutDlg_CommandSetPaintToolGroup	Paint Tool Group	페인트 도구 그룹
+CustomizeShortcutDlg_CommandSetPitchToolGroup	Pitch Tool Group	피치 도구 그룹
+CustomizeShortcutDlg_CommandShiftLyricsLeft	Shift Lyrics Left	가사를 한 글자 앞으로
+CustomizeShortcutDlg_CommandShiftLyricsRight	Shift Lyrics Right	가사를 한 글자 뒤로
+CustomizeShortcutDlg_CommandSplitNote	Split Note	노트 분할
+CustomizeShortcutDlg_CommandStaccatoNote	Staccato	스타카토
+CustomizeShortcutDlg_CommandToggleBreathBypass	Breath	브레스
+CustomizeShortcutDlg_CommandToggleGlobalMute	Global Mute	글로벌 뮤트
+CustomizeShortcutDlg_CommandToggleGlobalSolo	Global Solo	글로벌 솔로
+CustomizeShortcutDlg_CommandToggleMute	Mute	뮤트
+CustomizeShortcutDlg_CommandTogglePhonemeLock	Phoneme Lock	발음 기호 잠금
+CustomizeShortcutDlg_CommandTogglePlayback	Toggle Play/Stop	재생/정지 전환
+CustomizeShortcutDlg_CommandTogglePlaybackGuideSound	Acoustic Feedback	노트 미리 듣기
+CustomizeShortcutDlg_CommandToggleRobotVoiceBypass	Robot Voice	로봇 보이스
+CustomizeShortcutDlg_CommandToggleSolo	Solo	솔로
+CustomizeShortcutDlg_CommandTransposeNote	Transpose	트랜스포즈
+CustomizeShortcutDlg_CommandsSearchTextBoxPlaceholder	Search Commands	명령 검색
+CustomizeShortcutDlg_Delete	Remove	제거
+CustomizeShortcutDlg_DeletePreset	Delete	삭제
+CustomizeShortcutDlg_Discard	Discard	버리기
+CustomizeShortcutDlg_DisplayShortcutKeyHeader	Keys	키
+CustomizeShortcutDlg_EnterTheKey	Press key:	키 입력:
+CustomizeShortcutDlg_Export	Export	내보내기
+CustomizeShortcutDlg_Import	Import	가져오기
+CustomizeShortcutDlg_MessageClosingError	An error occurred while closing the dialog. Discard changes and exit dialog.	대화 상자를 닫는 중 오류가 발생했습니다. 변경 사항을 버리고 대화 상자를 닫습니다.
+CustomizeShortcutDlg_MessageConfirmationButtonError	Failed to save changes. Discard changes and exit dialog.	변경 사항을 저장하지 못했습니다. 변경 사항을 버리고 대화 상자를 닫습니다.
+CustomizeShortcutDlg_MessageCreatePresetFilePath	Failed to create preset file path.	프리셋 파일 경로를 만들지 못했습니다.
+CustomizeShortcutDlg_MessageDeletePresetFile	Delete the current preset?	현재 프리셋을 삭제하시겠습니까?
+CustomizeShortcutDlg_MessageDeletePresetFileError	Failed to delete preset file.	프리셋 파일을 삭제하지 못했습니다.
+CustomizeShortcutDlg_MessageDiscardPreset	Discard preset changes?	프리셋 변경 사항을 버리시겠습니까?
+CustomizeShortcutDlg_MessageOpenShortcutKeyPresetFileError	Failed to open preset file.	프리셋 파일을 열지 못했습니다.
+CustomizeShortcutDlg_MessageOverWrite	Overwrite the shortcut key?	단축키를 덮어쓰시겠습니까?
+CustomizeShortcutDlg_MessagePathSystemShortcutKeysNotFoundError	System shortcut path does not exist.	시스템 단축키 경로가 없습니다.
+CustomizeShortcutDlg_MessageRenamePreset	Enter preset name:	프리셋 이름을 입력하세요:
+CustomizeShortcutDlg_MessageResetShortcutKey	Reset the shortcuts for this command to its default setting?	이 명령의 단축키를 기본 설정으로 되돌리시겠습니까?
+CustomizeShortcutDlg_MessageShortcutKeyDelete	Remove the selected shortcut key?	선택한 단축키를 제거하시겠습니까?
+CustomizeShortcutDlg_MessageWriteShortcutKeyPresetFileError	Failed to write preset file.	프리셋 파일을 쓰지 못했습니다.
+CustomizeShortcutDlg_PresetFileOverWrite	A file with this name already exists. Overwrite existing file?	같은 이름의 파일이 이미 있습니다. 덮어쓰시겠습니까?
+CustomizeShortcutDlg_PresetHeader	Preset	프리셋
+CustomizeShortcutDlg_PresetSuffixName	Modified	수정됨
+CustomizeShortcutDlg_Register	Assign	할당
+CustomizeShortcutDlg_Reset	Reset	초기화
+CustomizeShortcutDlg_SaveEditPresetFile	Save your changes in the current preset?	현재 프리셋의 변경 사항을 저장하시겠습니까?
+CustomizeShortcutDlg_TextDuplicateMessage	Already assigned to:	이미 할당됨:
+CustomizeShortcutDlg_TitleRenamePreset	Rename Preset	프리셋 이름 변경
+CustomizeShortcutsDlg_Title	Keyboard Shortcuts	키보드 단축키
+DataUseDlg_Allowance_Caption	Allow	허용
+DataUseDlg_Decline_Caption	Don't Allow	허용 안 함
+DataUseDlg_Message	In order to improve the quality of this software/service, this software sends data that does not identify individuals to third parties. Yamaha and concerned third-parties collect and store data related to the use of this software, including customer access conditions, devices, OS versions and numbers of users.\r\nDo you permit transmission of software use conditions?	이 소프트웨어/서비스의 품질 향상을 위해, 본 소프트웨어는 개인을 식별하지 않는 일부 정보를 제3자에게 전송합니다. Yamaha 및 해당 제3자는 고객의 접속 상황, 기기, OS 버전, 사용자 수 등을 포함한 본 소프트웨어 이용 관련 정보를 수집·보관합니다.\n소프트웨어 사용 현황 전송을 허용하시겠습니까?
+DataUseDlg_Title	VOCALOID6 Editor	VOCALOID6 Editor
+DivideNote_Alert_Label	Note length is too small.	노트 길이가 너무 짧아집니다.
+DivideNote_Label	Number of divisions:	분할 수:
+DivideNote_Title	Divide Note Equally	노트 균등 분할
+DownloadContent_Completed	Installation Complete.	설치가 완료되었습니다.
+DownloadContent_Description	Additional VOCALOID content is available to download.	VOCALOID 추가 콘텐츠를 다운로드할 수 있습니다.
+DownloadContent_Stopped	Installation Interrupted.	설치가 중단되었습니다.
+DownloadContent_Title	Download New Content	콘텐츠 다운로드
+EditHandle_AmplitudeEnd_DisplayName	Following Expression	뒤쪽 익스프레션
+EditHandle_AmplitudeStart_DisplayName	Leading Expression	앞쪽 익스프레션
+EditHandle_AmplitudeWhole_DisplayName	Middle Expression	중간 익스프레션
+EditHandle_PitchDriftEnd_DisplayName	Following Drift	뒤쪽 드리프트
+EditHandle_PitchDriftStart_DisplayName	Leading Drift	앞쪽 드리프트
+EditHandle_PitchFine_DisplayName	Fine Tune	미세 조정
+EditHandle_PitchScalingOrigin_DisplayName	Overall Drift	전체 드리프트
+EditHandle_PitchTransitionEnd_DisplayName	Following Transition	뒤쪽 트랜지션
+EditHandle_PitchTransitionStart_DisplayName	Leading Transition	앞쪽 트랜지션
+EditHandle_VibratoDepth_DisplayName	Depth	깊이
+EditHandle_VibratoDuration_DisplayName	Vibrato Start	시작 위치
+EditHandle_VibratoFollowingDepth_DisplayName	Following Depth	뒤쪽 깊이
+EditHandle_VibratoLeadingDepth_DisplayName	Leading Depth	앞쪽 깊이
+EditHandle_VibratoRate_DisplayName	Rate	속도
+ExportSMFDlg_Title	ExportSMF	SMF 내보내기
+ExtractLyrics_Announce	The lyrics have been copied to the clipboard.	가사가 클립보드에 복사되었습니다.
+ExtractLyrics_Label	Lyric:	가사:
+ExtractLyrics_Title	Extract Lyrics	가사 추출
+FileDlg_Encoding	Character encoding of lyrics	가사 문자 인코딩
+FileDlg_Encoding_ShiftJis	Shift_JIS	Shift_JIS
+FileDlg_Encoding_Utf8	UTF-8	UTF-8
+FileDlg_Openable_Filter	VOCALOID5/6 Project|*.vpr|VOCALOID3/4 Sequence|*.vsqx|Piapro Studio Song|*.ppsf|All Files|*.vpr;*.vsqx;*.ppsf|All Files|*.*	VOCALOID5/6 프로젝트|*.vpr|VOCALOID3/4 시퀀스|*.vsqx|Piapro Studio 송|*.ppsf|지원되는 모든 파일|*.vpr;*.vsqx;*.ppsf|모든 파일|*.*
+FileDlg_PPSF_Filter	Piapro Studio Song|*.ppsf|All Files|*.*	Piapro Studio 송|*.ppsf|모든 파일|*.*
+FileDlg_SMF_Filter	SMF|*.mid;*.midi	SMF|*.mid;*.midi
+FileDlg_ShortcutKey_Filter	VOCALOID Preset Files | *.vkeys	VOCALOID 프리셋 파일 | *.vkeys
+FileDlg_V6Proj_Filter	VOCALOID6 Sequence|*.vpr	VOCALOID6 시퀀스|*.vpr
+FileDlg_VPR_Filter	VOCALOID5/6 Project|*.vpr|All Files|*.*	VOCALOID5/6 프로젝트|*.vpr|모든 파일|*.*
+FileDlg_VSQX_Filter	VOCALOID3/4 Sequence|*.vsqx|All Files|*.*	VOCALOID3/4 시퀀스|*.vsqx|모든 파일|*.*
+FileDlg_Wave_Filter	Wave File|*.wav|All Files|*.*	Wave 파일|*.wav|모든 파일|*.*
+File_DefaultName	Untitled	제목 없음
+FreezeProgressDlg_Title	Freeze	프리즈
+ImportSettingsDlg_Encoding	Character encoding of lyrics	가사 문자 인코딩
+ImportSettingsDlg_ImportTempoAndTimeSig	Import tempo and time signature	템포와 박자 가져오기
+ImportSettingsDlg_Title	Import Settings	가져오기 설정
+ImportSettingsDlg_TrackType	Track type	트랙 종류
+InsertLyricsDlg_NumNote_Caption	Max:	최대:
+InsertLyricsDlg_NumNote_Unit	note	노트
+InsertLyricsDlg_Title	Insert Lyrics	가사 일괄 입력
+InsertRest_Info_Label	 (1 beat = 480 Tick)	 (1박 = 480 Tick)
+InsertRest_Label	Rest length:	쉼표 길이:
+InsertRest_Position_Label	Insert Position:	삽입 위치:
+InsertRest_Title	Insert Rest	쉼표 삽입
+MainMenu_Edit_AddAudioTrack_Header	Add Audio Track	오디오 트랙 추가
+MainMenu_Edit_AddMidiAiTrack_Header	Add VOCALOID:AI Track	VOCALOID:AI 트랙 추가
+MainMenu_Edit_AddMidiTrack_Header	Add VOCALOID Track	VOCALOID 트랙 추가
+MainMenu_Edit_Copy_Header	Copy	복사
+MainMenu_Edit_Cut_Header	Cut	잘라내기
+MainMenu_Edit_DeleteTime_Header	Delete Time	구간 삭제 (뒤를 당김)
+MainMenu_Edit_Delete_Header	Delete	삭제
+MainMenu_Edit_DuplicateTrack_Header	Duplicate Track	트랙 복제
+MainMenu_Edit_Duplicate_Header	Duplicate	복제
+MainMenu_Edit_Header	Edit	편집
+MainMenu_Edit_InsertSilence_Header	Insert Silence	무음 구간 삽입
+MainMenu_Edit_JoinEvents_Header	Join Events	이벤트 합치기
+MainMenu_Edit_Paste_Header	Paste	붙여넣기
+MainMenu_Edit_Redo_Header	Redo	다시 실행
+MainMenu_Edit_SelectAll_Header	Select All	모두 선택
+MainMenu_Edit_ShowAddTrackDlg_Header	Add Track...	트랙 추가...
+MainMenu_Edit_Undo_Header	Undo	실행 취소
+MainMenu_File_AppExit_Header	Quit VOCALOID6 Editor	VOCALOID6 Editor 종료
+MainMenu_File_AudioMixDown_Header	Audio Mixdown...	오디오 믹스다운...
+MainMenu_File_ExportSMF_Header	Export MIDI...	내보내기 (MIDI)...
+MainMenu_File_Export_Header	Export VPR...	내보내기 (VPR)...
+MainMenu_File_Header	File	파일
+MainMenu_File_ImportAudio_Header	Audio File...	오디오 파일...
+MainMenu_File_ImportMidi_Header	MIDI File...	MIDI 파일...
+MainMenu_File_ImportPpsf_Header	PPSF File...	PPSF 파일...
+MainMenu_File_ImportTempoAndSignature_Header	Tempo and Time Signature...	템포와 박자...
+MainMenu_File_ImportVpr_Header	VPR File...	VPR 파일...
+MainMenu_File_ImportVsqx_Header	VSQX File...	VSQX 파일...
+MainMenu_File_Import_Header	Import	가져오기
+MainMenu_File_New_Header	New	새로 만들기
+MainMenu_File_OpenRecent_Header	Open Recent...	최근 파일 열기
+MainMenu_File_Open_Header	Open...	열기...
+MainMenu_File_ProjectSetting_Header	Project Settings...	프로젝트 설정...
+MainMenu_File_Revert_Header	Revert	마지막 저장 상태로 되돌리기
+MainMenu_File_SaveAs_Header	Save As...	다른 이름으로 저장...
+MainMenu_File_Save_Header	Save	저장
+MainMenu_Help_About_Header	About VOCALOID6 Editor...	VOCALOID6 Editor 정보...
+MainMenu_Help_CheckInstallStatus_Header	Check for Installation Status...	설치 상태 확인...
+MainMenu_Help_CheckUpdate_Header	Check for Updates...	업데이트 확인...
+MainMenu_Help_DownloadContents_Header	Download New Content...	콘텐츠 다운로드...
+MainMenu_Help_Header	Help	도움말
+MainMenu_Help_OpenManual_Header	Reference Manual	레퍼런스 매뉴얼
+MainMenu_Help_OpenNews_Header	News...	뉴스...
+MainMenu_Help_OpenOfficialSite_Header	vocaloid.com	vocaloid.com
+MainMenu_Help_OpenTutorial_Header	Tutorial	튜토리얼
+MainMenu_Help_VoiceBanksVersion_Header	Voice Bank Version...	보이스뱅크 버전...
+MainMenu_Job_AddPartToMedia_Header	Add Part to Media...	파트를 미디어에 추가...
+MainMenu_Job_ConvertPhoneticSymbols_Header	Convert Phonemes to Match Language	발음 기호를 언어에 맞게 변환
+MainMenu_Job_Header	Job	작업
+MainMenu_Job_InsertLyrics_Header	Insert Lyrics...	가사 일괄 입력...
+MainMenu_Job_LyricInputMode_Header	Lyric Input Mode	가사 입력 모드
+MainMenu_Job_LyricInputMode_Letter_Header	Letter Mode	가사로 입력
+MainMenu_Job_LyricInputMode_PhoneticSymbol_Header	Phonetic Symbol Mode	발음 기호로 입력
+MainMenu_Job_NormalizeWave_Header	Normalize Audio Wave	오디오 파트 게인 노멀라이즈
+MainMenu_Job_PartAudioMixDown_Header	Export to Audio File...	파트를 오디오로 내보내기...
+MainMenu_Job_PlaybackGuideSound_Header	Acoustic Feedback	노트 미리 듣기
+MainMenu_Settings_CustomizeShortcuts_Header	Keyboard Shortcuts...	키보드 단축키...
+MainMenu_Settings_Header	Setting	설정
+MainMenu_Settings_Preferences_Header	Preferences...	환경 설정...
+MainMenu_Transport_AutoScroll_Header	Auto Scroll	자동 스크롤
+MainMenu_Transport_Header	Transport	트랜스포트
+MainMenu_Transport_Play_Header	Play	재생
+MainMenu_Transport_Record_Header	Record	녹음
+MainMenu_Transport_Repeat_Header	Repeat	반복
+MainMenu_Transport_SetEndMarkerToSongPosition_Header	Set End Marker to Song Position	종료 마커를 재생 위치로 설정
+MainMenu_Transport_SetRepeatToSelectionRange_Header	Set Repeat to Selection Range	선택 구간을 반복 구간으로 설정
+MainMenu_Transport_SetStartMarkerToSongPosition_Header	Set Start Marker to Song Position	시작 마커를 재생 위치로 설정
+MainMenu_Transport_StartMode_BeginLoop_Header	Start from Repeat Start	반복 구간 처음부터 시작
+MainMenu_Transport_StartMode_Header	Start Mode	시작 모드
+MainMenu_Transport_StartMode_SongPosition_Header	Start from Song Position	재생 위치부터 시작
+MainMenu_Transport_Stop_Header	Stop	정지
+MainMenu_View_Editor_Header	Editor	에디터
+MainMenu_View_Header	View	보기
+MainMenu_View_Inspector_Header	Inspector	인스펙터
+MainMenu_View_Media_Header	Media	미디어
+MainMenu_View_Mixer_Header	Mixer	믹서
+MainMenu_View_ShowMasterTrack_Header	Main Track	메인 트랙
+MainMenu_View_ShowTempoTrack_Header	Tempo Track	템포 트랙
+MainMenu_View_ShowTimeSigTrack_Header	TimeSig Track	박자 트랙
+MainMenu_View_ToggleControlParameterArea_Header	Show or Hide Control Parameters Area	컨트롤 파라미터 영역 열기/닫기
+MainMenu_View_ToggleLowerZone_Header	Show or Hide Lower Zone	하단 영역 열기/닫기
+MainMenu_View_ZoomFull_Header	Zoom Full	전체 보기
+MainMenu_View_ZoomInHorizontally_Header	Zoom In Horizontally	가로 확대
+MainMenu_View_ZoomInVertically_Header	Zoom In Vertically	세로 확대
+MainMenu_View_ZoomOutHorizontally_Header	Zoom Out Horizontally	가로 축소
+MainMenu_View_ZoomOutVertically_Header	Zoom Out Vertically	세로 축소
+MainMenu_View_ZoomToSelectedParts_Header	Zoom to Selected Parts	선택한 파트 확대
+MainMenu_View_Zoom_Header	Zoom	확대/축소
+MediaEditDlg_Header	Edit Media Properties	미디어 정보 편집
+MediaTag_ComboBox_DefaultString	---	---
+MediaTag_ComboBox_Unset	(Unset)	(미설정)
+Media_KeySetting_Tooltip	Media Pasting Key Transposition Settings	미디어 붙여넣기 시 조옮김 설정
+Media_PartKey_None	None	없음
+MidiPartPropertyDlg_PartName_Caption	Part Name	파트 이름
+MidiPartPropertyDlg_Title	MIDIPart Property	MIDI 파트 속성
+MsgBox_Activate_Products	Activate VOCALOID6 products.	VOCALOID6 제품을 인증해 주세요.
+MsgBox_Add_AudioPart_Error	Failed to add Audio part.	오디오 파트를 추가할 수 없습니다.
+MsgBox_Add_AudioTrack_Error	Failed to add Audio track.	오디오 트랙을 추가할 수 없습니다.
+MsgBox_Add_ControlParameter_Error	Failed to add control parameter.	컨트롤 파라미터를 추가할 수 없습니다.
+MsgBox_Add_MasterVolume_Error	Failed to add Main Volume.	메인 볼륨을 추가하지 못했습니다.
+MsgBox_Add_MidiAiTrack_Error	Failed to add VOCALOID:AI track.	VOCALOID:AI 트랙을 추가할 수 없습니다.
+MsgBox_Add_MidiPart_Error	Failed to add VOCALOID part.	VOCALOID 파트를 추가할 수 없습니다.
+MsgBox_Add_MidiTrack_Error	Failed to add VOCALOID track.	VOCALOID 트랙을 추가할 수 없습니다.
+MsgBox_Add_Note_Error	Failed to add note.	노트를 추가할 수 없습니다.
+MsgBox_Add_Panpot_Error	Failed to add Panpot.	팬을 추가하지 못했습니다.
+MsgBox_Add_Tempo_Error	Failed to add Tempo.	템포를 추가하지 못했습니다.
+MsgBox_Add_TimeSig_Error	Failed to add Time Signature.	박자를 추가하지 못했습니다.
+MsgBox_Add_TrackVolume_Error	Failed to add Track Volume.	트랙 볼륨을 추가하지 못했습니다.
+MsgBox_Add_Track_Error	Failed to add Track.	트랙을 추가할 수 없습니다.
+MsgBox_App_MultipleStartup	This application is already running.	이 애플리케이션은 이미 실행 중입니다.
+MsgBox_AudioDevice_DeviceChanged	Audio device was changed.	오디오 장치가 변경되었습니다.
+MsgBox_AudioDevice_FailedToSet	Failed to set audio device.	오디오 장치 설정을 변경하지 못했습니다.
+MsgBox_AudioDevice_NotFound	Audio device not found.	사용 가능한 오디오 장치가 없습니다.
+MsgBox_AudioEngineInitialization_Error	Failed to initialize Audio Engine.	Audio Engine 초기화에 실패했습니다!
+MsgBox_AudioMixdown_FailedMixdown	Failed to mixdown audio.	오디오 믹스다운에 실패했습니다.
+MsgBox_AudioMixdown_FailedMixdownMulti	Failed to perform multi track audio mixdown.	멀티 트랙 오디오 믹스다운에 실패했습니다.
+MsgBox_AudioMixdown_FailedMixdownPart	Failed to perform partial audio mixdown.	파트 오디오 믹스다운에 실패했습니다.
+MsgBox_AudioMixdown_FailedOpenExplorer	Failed to open explorer.	탐색기를 열지 못했습니다.
+MsgBox_AudioMixdown_FailedToExportAudioFileThisPlace	Failed to export Audio File this place. : Error 	이 위치에 오디오 파일을 내보낼 수 없습니다. 오류
+MsgBox_AudioMixdown_TheFileNameContainsInvalidCharacters	The file name contains invalid characters.	파일 이름에 사용할 수 없는 문자가 있습니다.
+MsgBox_AudioMixdown_ThePathNameIsTooLong	The path name is too long.	경로 이름이 너무 깁니다.
+MsgBox_ChangeStyleButton	Change Style	스타일 변경
+MsgBox_ClearCache	The cache clearing process is performed when closing the current project.	현재 프로젝트를 닫을 때 캐시 삭제가 진행됩니다.
+MsgBox_Copy_Error	Failed to copy.	복사하지 못했습니다.
+MsgBox_Cut_Error	Failed to cut.	잘라내지 못했습니다.
+MsgBox_DSEManagerInitialization_Error	Failed to initialize DSE.	DSE 초기화에 실패했습니다!
+MsgBox_DatabaseManagerInitialization_Error	Failed to initialize Database Manager.	Database Manager 초기화에 실패했습니다!
+MsgBox_Delete_ControlParameter_Error	Failed to delete control parameter.	컨트롤 파라미터를 삭제하지 못했습니다.
+MsgBox_Delete_Error	Failed to delete.	삭제하지 못했습니다.
+MsgBox_Delete_MasterVolume_Error	Failed to delete Main Volume.	메인 볼륨을 삭제하지 못했습니다.
+MsgBox_Delete_Panpot_Error	Failed to delete Panpot.	팬을 삭제하지 못했습니다.
+MsgBox_Delete_Tempo_Error	Failed to delete tempo.	템포를 삭제하지 못했습니다.
+MsgBox_Delete_TrackVolume_Error	Failed to delete Track Volume.	트랙 볼륨을 삭제하지 못했습니다.
+MsgBox_DialogsOpened_Info	Please close all open VOCALOID windows before opening sequence file.	파일을 열기 전에 열려 있는 VOCALOID 창을 모두 닫아 주세요.
+MsgBox_Discard_Confirmation	The edited data will be discarded.\r\nThis action cannot be undone.\r\nDo you wish to continue?	편집한 데이터가 삭제됩니다. (이 작업은 되돌릴 수 없습니다)\n계속하시겠습니까?
+MsgBox_Divide_AudioPart_Error	Failed to divide Audio part.	오디오 파트를 분할할 수 없습니다.
+MsgBox_Divide_MidiPart_Error	Failed to divide VOCALOID Part.	VOCALOID 파트를 분할할 수 없습니다.
+MsgBox_DoubleStart_Error	VOCALOID6 Editor cannot launch because the VOCALOID6 Standalone Version, VSTi Version, or AU Version is already running.	VOCALOID6 독립 실행형 / VSTi / AU 버전 중 하나가 이미 실행 중이어서 VOCALOID6 Editor를 시작할 수 없습니다.
+MsgBox_DoubleStart_Title_Error	Preventing double start	중복 실행 방지
+MsgBox_DoubleTempo_Error	Failed to perform Double Tempo.	더블 템포에 실패했습니다.
+MsgBox_Duplicate_AudioPart_Error	Failed to duplicate Audio part.	오디오 파트를 복제할 수 없습니다.
+MsgBox_Duplicate_Error	Failed to duplicate.	복제하지 못했습니다.
+MsgBox_Duplicate_MasterVolume_Error	Failed to duplicate Main Volume.	메인 볼륨을 복제하지 못했습니다.
+MsgBox_Duplicate_MidiPart_Error	Failed to duplicate VOCALOID Part.	VOCALOID 파트를 복제할 수 없습니다.
+MsgBox_Duplicate_Panpot_Error	Failed to duplicate Panpot.	팬을 복제하지 못했습니다.
+MsgBox_Duplicate_Tempo_Error	Failed to duplicate Tempo.	템포를 복제하지 못했습니다.
+MsgBox_Duplicate_TimeSig_Error	Failed to duplicate Time Signature.	박자를 복제하지 못했습니다.
+MsgBox_Duplicate_TrackVolume_Error	Failed to duplicate Track Volume.	트랙 볼륨을 복제하지 못했습니다.
+MsgBox_Duplicate_Track_Error	Failed to duplicate Track.	트랙을 복제하지 못했습니다.
+MsgBox_Edit_Amplitude_Error	Failed to edit expression.	익스프레션을 편집할 수 없습니다.
+MsgBox_Edit_ControlParameter_Error	Failed to edit control parameter.	컨트롤 파라미터를 편집할 수 없습니다.
+MsgBox_Edit_Note_Error	Failed to edit note.	노트를 편집할 수 없습니다.
+MsgBox_Edit_PhonemeTiming_Error	Failed to edit timing.	타이밍을 편집할 수 없습니다.
+MsgBox_Edit_Pitch_Error	Failed to edit pitch.	피치를 편집할 수 없습니다.
+MsgBox_Edit_Vibrato_Error	Failed to edit vibrato.	비브라토를 편집할 수 없습니다.
+MsgBox_ExpiredLeaseFile_Error	Error activating with Splice\r\n\r\nPlease ensure the Splice app is open and try again.	Splice 인증 오류\n\nSplice 앱이 실행 중인지 확인한 후 다시 시도해 주세요.
+MsgBox_ExpiredLeaseFile_Warning	Error activating with Splice\r\n\r\nPlease ensure the Splice app is open and try again.\r\nVOCALOID6 will start in the Lite version.	Splice 인증 오류\n\nSplice 앱이 실행 중인지 확인한 후 다시 시도해 주세요.\nVOCALOID6를 Lite 버전으로 시작합니다.
+MsgBox_FailedToOpenRenderingFile	Fatal Error: Failed to write synthesized audio file.\r\n\r\nPlease save your project under a different name and then relaunch the application.	치명적 오류: 합성 오디오 파일을 쓰지 못했습니다.\n\n프로젝트를 다른 이름으로 저장한 후 애플리케이션을 다시 시작해 주세요.
+MsgBox_Freeze_FailedFreeze	Failed to Freeze.	프리즈에 실패했습니다.
+MsgBox_G2PAManagerInitialization_Error	Failed to initialize G2PA Manager.	G2PA Manager 초기화에 실패했습니다!
+MsgBox_HalfTempo_Error	Failed to perform Half Tempo.	하프 템포에 실패했습니다.
+MsgBox_HowToImportAudio	Insert audio on one track or insert each on different track?	오디오 파일을 하나의 트랙에 모두 넣으시겠습니까?\n아니면 각각 다른 트랙에 넣으시겠습니까?
+MsgBox_ImportAudioOnOne	One track	하나의 트랙
+MsgBox_ImportAudioPerTrack	Different tracks	각각 다른 트랙
+MsgBox_ImportFile_Load_Error	Failed to import file.	파일을 가져오지 못했습니다.
+MsgBox_ImportFile_Load_Error_DueToUnsupportedVersion	Failed to import the file.\r\nThis version of the file is not supported.	파일을 가져오지 못했습니다.\n지원하지 않는 버전의 파일입니다.
+MsgBox_ImportTempoAndBeat	Import tempo and time signature?	템포와 박자를 가져오시겠습니까?
+MsgBox_InvalidHash_Error	Failed to initialize DSE.	DSE 초기화에 실패했습니다.
+MsgBox_KeepStyleButton	Keep Current Style	현재 스타일 유지
+MsgBox_Load_WavFile_Error	The Wav file could not be loaded.	Wav 파일을 불러올 수 없습니다.
+MsgBox_LuaControllerInitialization_Error	Failed to initialize Lua Controller.	Lua Controller 초기화에 실패했습니다!
+MsgBox_LuaManagerInitialization_Error	Failed to initialize Lua Manager.	Lua Manager 초기화에 실패했습니다!
+MsgBox_MediaManagerInitialization_Error	Failed to initialize Media Manager.	Media Manager 초기화에 실패했습니다!
+MsgBox_Media_DeleteInfo	Are you sure you want to delete {0}? This action cannot be undone.	{0}을(를) 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다.
+MsgBox_Media_FailedToDeleteMedia	Failed to delete media.	미디어를 삭제하지 못했습니다.
+MsgBox_Move_AudioEffect_Error	Failed to move Audio Effect.	오디오 이펙트를 이동하지 못했습니다.
+MsgBox_Move_AudioPart_Error	Failed to move Audio part.	오디오 파트를 이동할 수 없습니다.
+MsgBox_Move_MasterVolume_Error	Failed to move Main Volume.	메인 볼륨을 이동하지 못했습니다.
+MsgBox_Move_MidiPart_Error	Failed to move VOCALOID part.	VOCALOID 파트를 이동할 수 없습니다.
+MsgBox_Move_Panpot_Error	Failed to move Panpot.	팬을 이동하지 못했습니다.
+MsgBox_Move_Tempo_Error	Failed to move Tempo.	템포를 이동하지 못했습니다.
+MsgBox_Move_TimeSig_Error	Failed to move Time Signature.	박자를 이동하지 못했습니다.
+MsgBox_Move_TrackVolume_Error	Failed to move Track Volume.	트랙 볼륨을 이동하지 못했습니다.
+MsgBox_Move_Track_Error	Failed to move track.	트랙을 이동할 수 없습니다.
+MsgBox_Name_ContainsSpace	This name contains space.	이름에 공백 문자가 포함되어 있습니다.
+MsgBox_Name_Invalid	Invalid Name.	올바르지 않은 이름입니다.
+MsgBox_Name_Null	Name Empty.	이름이 입력되지 않았습니다.
+MsgBox_OpenUrl_Error	Failed to open URL.	URL을 열 수 없습니다.
+MsgBox_Open_Sequence_BackupFileHasBeenFound	A backup file was found. Do you want to restore from it?	백업 파일이 발견되었습니다. 백업 파일에서 복원하시겠습니까?
+MsgBox_Open_Sequence_Error	Failed to open file.	파일을 열지 못했습니다.
+MsgBox_Open_Sequence_InvalidDataException_Error	An archive entry was not found or was corrupt.	아카이브 항목을 찾을 수 없거나 손상되었습니다.
+MsgBox_Open_Sequence_LiteLimitedTrackDeletion	Tracks that exceeded the track limit have been deleted.	트랙 수 제한을 초과한 트랙이 삭제되었습니다.
+MsgBox_Open_Sequence_UnsupportedVersion	Failed to open the file. This version of the file is not supported.	파일을 열지 못했습니다. 지원하지 않는 버전의 파일입니다.
+MsgBox_PaidOffLeaseFile	Lease Paid\r\n\r\nCongratulations! Your Splice lease has been paid off.\r\nPlease enter your license key to activate the application.	리스 완료\n\nSplice 리스가 완료되었습니다.\n애플리케이션을 인증하려면 라이선스 키를 입력해 주세요.
+MsgBox_Paste_Error	Failed to paste.	붙여넣지 못했습니다.
+MsgBox_PrmChanged_PageMove	Save the changes? If not, the changes are lost.	변경 사항을 저장하시겠습니까? 저장하지 않으면 변경 내용이 사라집니다.
+MsgBox_ResetVoiceForVoiceChanger	The voice banks that cannot be used for VOCALO CHANGER target are set in the audio parts of the project. The targets of these parts will be reset.	보카로 체인저 타깃으로 사용할 수 없는 보이스뱅크가 프로젝트의 오디오 파트에 설정되어 있습니다. 해당 파트의 타깃이 초기화됩니다.
+MsgBox_Resize_AudioPart_Error	Failed to resize Audio part.	오디오 파트 크기를 조절할 수 없습니다.
+MsgBox_Resize_MidiPart_Error	Failed to resize VOCALOID Part.	VOCALOID 파트 크기를 조절할 수 없습니다.
+MsgBox_Resize_Part_Error	Can not resize part.	파트 크기를 조절할 수 없습니다.
+MsgBox_Revert_Confirm	Revert to the previously saved version?	마지막으로 저장한 상태로 되돌리시겠습니까?
+MsgBox_RobotVoice_RobotVoicesNull	Robot Voice could not be found.	로봇 보이스가 없습니다.
+MsgBox_Save_Confirmation	Do you want to save	변경 사항 저장:
+MsgBox_Save_Media_Error	Failed to save media.	미디어를 저장하지 못했습니다.
+MsgBox_Save_Sequence_Error	Failed to save project file.	프로젝트 파일을 저장하지 못했습니다.
+MsgBox_Save_Style_Error	Failed to save style preset file.	스타일 프리셋 파일을 저장하지 못했습니다.
+MsgBox_Save_TooLargeSequence_Error	Failed to save file. VOCALOID project size exceeds 2GB.	VOCALOID 프로젝트 크기가 2GB를 초과하여 파일을 저장하지 못했습니다.
+MsgBox_SequenceOptimization	The project data is optimized for the current version of VOCALOID Editor.	현재 VOCALOID Editor 버전에 맞게 프로젝트 데이터를 최적화했습니다.
+MsgBox_SequenceOptimization_Error	Failed to optimize project data for the current version of VOCALOID Editor.	현재 VOCALOID Editor 버전에 맞게 프로젝트 데이터를 최적화하지 못했습니다.
+MsgBox_Set_LoopRange_Error	Failed to set repeat playback section.	반복 재생 구간을 설정하지 못했습니다.
+MsgBox_SingingSkill_DefaultSingingSkillNull	Default Singing Skill could not be found.	기본 싱잉 스킬이 없습니다.
+MsgBox_StyleManagerInitialization_Error	Failed to initialize Style Manager.	Style Manager 초기화에 실패했습니다!
+MsgBox_StylePresetChange_Confirm	Some of the selected parts have an edited style or a non-default style applied.\r\nWould you like to change the style to match the voice change?	선택한 파트 중 일부에 편집된 스타일 또는 기본값이 아닌 스타일이 설정되어 있습니다.\n보이스 변경에 맞춰 스타일도 변경하시겠습니까?
+MsgBox_Style_DeleteInfo	Are you sure you want to delete {0}? This action cannot be undone.	{0}을(를) 삭제하시겠습니까? 삭제하면 되돌릴 수 없습니다.
+MsgBox_Style_FailedToDeleteStyle	Failed to delete style preset.	스타일 프리셋을 삭제하지 못했습니다.
+MsgBox_TooLongName_Warning	Too long names are not loaded.	너무 긴 이름은 불러올 수 없습니다.
+MsgBox_TooManyCharacters_Warning	Too many characters have been entered, and they have been truncated to {0} characters.	입력한 글자 수가 너무 많아 {0}자로 잘렸습니다.
+MsgBox_TrackCouldNotBeAdded	Tracks could not be added because the maximum number of tracks was exceeded.	트랙 수 제한을 초과하여 트랙을 추가할 수 없습니다.
+MsgBox_UserConfiguration_Corrupted_Error	The user configuration file will be initialized because it is corrupted.	사용자 설정 파일이 손상되어 초기화합니다.
+MsgBox_UserConfiguration_FailedToInit_Error	Failed to initialize user configuration file. VOCALOID Editor will now close.	사용자 설정 파일을 초기화하지 못했습니다. VOCALOID Editor를 종료합니다.
+MsgBox_VSMInitialization_Error	Failed to initialize VSM.	VSM 초기화에 실패했습니다!
+MsgBox_VoiceBank_Update_Prompt	Please check the websites of Voice Bank vendors.	각 보이스뱅크 판매사의 홈페이지를 확인해 주세요.
+MsgBox_VoiceBank_Update_Remaining	(remaining {0} voices)	(그 외 보이스 {0}개)
+MsgBox_VoiceBank_Update_Result	The following Voice Banks that can be updated.	다음 보이스뱅크를 업데이트할 수 있습니다.
+MsgBox_Wave_CopyAudioPartProperty_Error	Failed to paste special. Error	선택하여 붙여넣기에 실패했습니다. 오류
+MsgBox_Wave_OldEditor_Error	This Voice Bank version is not supported. Please update the Editor.	지원하지 않는 보이스뱅크 버전입니다. 에디터를 업데이트해 주세요.
+MsgBox_Wave_OldVoiceBank_Error	This Voice Bank version is not supported. Please update the Voice Bank.	지원하지 않는 보이스뱅크 버전입니다. 보이스뱅크를 업데이트해 주세요.
+MsgBox_Wave_PitchShift_Error	Failed to shift pitch. Error 	피치 시프트에 실패했습니다. 오류
+MsgBox_Wave_Reverse_Error	Failed to reverse audio wave. Error 	리버스에 실패했습니다. 오류
+MsgBox_Wave_TimeStretch_Error	Failed to perform time stretch. Error 	타임 스트레치에 실패했습니다. 오류
+MsgBox_Wave_VoiceChange_Error	Failed to perform voice change. Error 	보이스 체인지에 실패했습니다. 오류
+NormalizeNote_Alert_Label	No overlapping notes.	겹치는 노트가 없습니다.
+NormalizeNote_Label	Overlapping notes are truncated to the length of the next note.	겹치는 노트는 다음 노트까지의 길이로 잘립니다.
+NormalizeNote_NumberOfNotes_Label	Number of notes:	노트 수:
+NormalizeNote_NumberOfOverlappingNotes_Label	Number of overlapping notes:	겹치는 노트 수:
+NormalizeNote_Title	Resolve Overlaps	겹친 노트 정리
+NotFoundAudioFilesDlg_Msg	The following audio files cannot be found.	다음 오디오 파일을 찾을 수 없습니다.
+NotFoundAudioFilesDlg_Title	Audio file cannot be found.	오디오 파일을 찾을 수 없음
+NotePropertyDlg_AIParameter	AI Parameter	AI 파라미터
+NotePropertyDlg_AiVibratoAssist	Assist	어시스트
+NotePropertyDlg_Attack	Attack Effect	어택 이펙트
+NotePropertyDlg_DirectPitch	Edited Pitch	편집한 피치
+NotePropertyDlg_LyricsAndPhonemes	Lyric and Phoneme	가사와 발음 기호
+NotePropertyDlg_Parameter	Parameter	파라미터
+NotePropertyDlg_Release	Release Effect	릴리스 이펙트
+NotePropertyDlg_Title	Paste Special	선택하여 붙여넣기
+NotePropertyDlg_VibratoMode	Mode	모드
+NotePropertyDlg_VibratoParameters	Parameters	파라미터
+PartPropertyDlg_AudioEffect	Audio Effect	오디오 이펙트
+PartPropertyDlg_Breath	Breath	브레스
+PartPropertyDlg_Note	Note	노트
+PartPropertyDlg_PitchShift	Change Pitch	피치 변경
+PartPropertyDlg_Reverse	Reverse	리버스
+PartPropertyDlg_RobotVoice	Robot Voice	로봇 보이스
+PartPropertyDlg_SingingSkill	Singing Skill	싱잉 스킬
+PartPropertyDlg_Style	Style	스타일
+PartPropertyDlg_StylePreset	Style Preset	스타일 프리셋
+PartPropertyDlg_Take	Take	테이크
+PartPropertyDlg_Title	Paste Special	선택하여 붙여넣기
+PartPropertyDlg_VoiceBank	Voice	보이스
+PartPropertyDlg_VoiceChanger	VOCALO CHANGER	보카로 체인저
+PartPropertyDlg_VoiceColor	Voice Color	보이스 컬러
+PreferencesDlg_Advanced_ARAClientEnabled_Caption	Allow connection with VOCALOID Bridge plugin\r\n(requires reloading the VOCALOID Editor plugin)	VOCALOID Bridge 플러그인과의 연결 허용\n(VOCALOID Editor 플러그인을 다시 불러와야 합니다)
+PreferencesDlg_Advanced_CacheCapacityOption_1GB	1GB	1GB
+PreferencesDlg_Advanced_CacheCapacityOption_2GB	2GB	2GB
+PreferencesDlg_Advanced_CacheCapacityOption_4GB	4GB	4GB
+PreferencesDlg_Advanced_CacheCapacityOption_8GB	8GB	8GB
+PreferencesDlg_Advanced_CacheCapacityOption_None	None	없음
+PreferencesDlg_Advanced_CacheCapacity_Caption	Cache Capacity	캐시 용량
+PreferencesDlg_Advanced_CacheSize_Caption	Cache Size	캐시 사용량
+PreferencesDlg_Advanced_ClearCache_Caption	Clear Cache	캐시 삭제
+PreferencesDlg_Advanced_CultureKind_Japanese	Japanese	일본어
+PreferencesDlg_Advanced_CultureKind_USEnglish	English	영어
+PreferencesDlg_Advanced_DataUse_Caption	Data Use	데이터 사용
+PreferencesDlg_Advanced_DefaultLyricLanguage_Chinese	Chinese	중국어
+PreferencesDlg_Advanced_DefaultLyricLanguage_English	English	영어
+PreferencesDlg_Advanced_DefaultLyricLanguage_Japanese	Japanese	일본어
+PreferencesDlg_Advanced_DefaultLyricLanguage_Korean	Korean	한국어
+PreferencesDlg_Advanced_DefaultLyricLanguage_Spanish	Spanish	스페인어
+PreferencesDlg_Advanced_DefaultLyric_Caption	Default Lyric	기본 가사
+PreferencesDlg_Advanced_DefaultTrackColor_Audio_Caption	Audio	오디오
+PreferencesDlg_Advanced_DefaultTrackColor_GroupHeader	Track Color	트랙 색상
+PreferencesDlg_Advanced_DefaultTrackColor_Midi_Ai_Caption	VOCALOID:AI	VOCALOID:AI
+PreferencesDlg_Advanced_DefaultTrackColor_Midi_Caption	VOCALOID	VOCALOID
+PreferencesDlg_Advanced_GetCacheSize_Caption		캐시 사용량 확인
+PreferencesDlg_Advanced_LanguagPriority_Caption	Preferred Language	우선 언어
+PreferencesDlg_Advanced_LanguagePriority_Chinese	Chinese	중국어
+PreferencesDlg_Advanced_LanguagePriority_English	English	영어
+PreferencesDlg_Advanced_LanguagePriority_Extension	(Extension)	(확장)
+PreferencesDlg_Advanced_LanguagePriority_Japanese	Japanese	일본어
+PreferencesDlg_Advanced_LanguagePriority_Korean	Korean	한국어
+PreferencesDlg_Advanced_LanguagePriority_Spanish	Spanish	스페인어
+PreferencesDlg_Advanced_Lyrics_GroupHeader	Lyrics	가사
+PreferencesDlg_Advanced_MeasureOffset_Caption	Measure Offset	마디 번호 오프셋
+PreferencesDlg_Advanced_Plugin_Caption	Plugin	플러그인
+PreferencesDlg_Advanced_SendDataEnabled_Caption	Permit transmission of software use conditions	소프트웨어 사용 현황 전송 허용
+PreferencesDlg_Advanced_Tab_Header	Details	고급
+PreferencesDlg_Audio_AudioDevice_Caption	Audio Device	오디오 장치
+PreferencesDlg_Audio_AudioDevice_ConnectingToReWire	Connecting to ReWire	ReWire 연결 중
+PreferencesDlg_Audio_Bit_Caption	Bit	비트
+PreferencesDlg_Audio_BufferSize_Caption	Buffer Size	버퍼 크기
+PreferencesDlg_Audio_BufferSize_ConnectingToReWire	-	-
+PreferencesDlg_Audio_Button_DevicePanel	Control Panel	제어판
+PreferencesDlg_Audio_MidiDevice_Caption	MIDI Device	MIDI 장치
+PreferencesDlg_Audio_SamplingRate_Caption	Sampling Rate	샘플링 레이트
+PreferencesDlg_Audio_StereoOutL_Caption	Stereo Out L	스테레오 출력 L
+PreferencesDlg_Audio_StereoOutL_ConnectingToReWire	-	-
+PreferencesDlg_Audio_StereoOutR_Caption	Stereo Out R	스테레오 출력 R
+PreferencesDlg_Audio_StereoOutR_ConnectingToReWire	-	-
+PreferencesDlg_Audio_Tab_Header	Audio	오디오
+PreferencesDlg_General_APIServerTimeOut_Caption	Timeout Wait Time (sec)	서버 연결 시간 제한 (초)
+PreferencesDlg_General_AutoSave_Caption	Auto Backup	자동 백업
+PreferencesDlg_General_AutoSave_Enable_Caption	Enable	사용
+PreferencesDlg_General_CheckForUpdates_Caption	Automatically check for updates	자동으로 업데이트 확인
+PreferencesDlg_General_ControlParametersV2Compatible_Caption	Revert to original value	조작 후 원래 값으로 되돌리기
+PreferencesDlg_General_ControlParameters_Caption	Control Parameters:	컨트롤 파라미터:
+PreferencesDlg_General_DefaultAiVoice_Caption	VOCALOID:AI Default Voice	VOCALOID:AI 기본 보이스
+PreferencesDlg_General_DefaultVoice_Caption	VOCALOID Default Voice	VOCALOID 기본 보이스
+PreferencesDlg_General_GetCacheSize_Caption	Get Cache Size	캐시 사용량 확인
+PreferencesDlg_General_HorizontalScroll_Caption	Horizontal Scroll	가로 스크롤
+PreferencesDlg_General_HorizontalScroll_ReverseMouseWheelDirection_Caption	Reverse mouse wheel direction	마우스 휠 방향 반전
+PreferencesDlg_General_LoadSystemMediaFile_Caption	Load pre-installed media	기본 설치된 미디어 불러오기
+PreferencesDlg_General_Media_Caption	Media	미디어
+PreferencesDlg_General_PrerollPlayEnabled_Caption	Pre-roll play (0.5 seconds)	프리롤 재생 (0.5초)
+PreferencesDlg_General_ReturntoStartARA_Caption	Return to start position on stop	정지 시 재생 시작 위치로 돌아가기
+PreferencesDlg_General_ReturntoStart_Caption	Return to start position on stop	정지 시 재생 시작 위치로 돌아가기
+PreferencesDlg_General_SongPositionARA_Caption	Song Position ARA	재생 위치 (ARA)
+PreferencesDlg_General_SongPosition_Caption	Song Position	재생 위치
+PreferencesDlg_General_SoundPreview_Caption	Sound Preview	사운드 미리 듣기
+PreferencesDlg_General_StylePresetChangeMode_Caption	Replace Style on Changing Voice	보이스 변경 시 스타일 전환
+PreferencesDlg_General_StylePresetChangeMode_Confirm	Replace if Default Style, Ask Otherwise	기본 스타일이면 전환, 그 외에는 확인
+PreferencesDlg_General_StylePresetChangeMode_None	Don't Replace	전환 안 함
+PreferencesDlg_General_Tab_Header	General	일반
+PreferencesDlg_General_Updates_Caption	Update	업데이트
+PreferencesDlg_SettingsChangedMsg	Relaunch VOCALOID Editor to apply changes.	설정을 적용하려면 VOCALOID Editor를 다시 시작하세요.
+PreferencesDlg_Title	Preferences	환경 설정
+PrivacyPolicy_Caption	Privacy Policy	개인정보 처리방침
+PrivacyPolicy_URL	https://www.yamaha.com/en/apps_docs/apps_dmi/dmi_PP_GA-20220412EN.html	https://www.yamaha.com/en/apps_docs/apps_dmi/dmi_PP_GA-20220412EN.html
+ProjectSettingDlg_MainTuning	Tuning	튜닝
+ProjectSettingDlg_MainTuning_Unit	Hz (415.3-466.2)	Hz (415.3-466.2)
+ProjectSettingDlg_Title	Project Setting	프로젝트 설정
+ReplaceUnavailableVoiceDlg_ListTitle_NewVoice	New Voice Banks	변경 후 보이스뱅크
+ReplaceUnavailableVoiceDlg_ListTitle_OriginalVoice	Original Voice Banks	변경 전 보이스뱅크
+ReplaceUnavailableVoiceDlg_Msg1	The voice banks that cannot be used are set in the parts of the project.	사용할 수 없는 보이스뱅크가 프로젝트의 파트에 설정되어 있습니다.
+ReplaceUnavailableVoiceDlg_Msg2	They will be replaced with available voice banks.	사용 가능한 보이스뱅크로 대체됩니다.
+ReplaceUnavailableVoiceDlg_Title	Voice banks are not available	보이스뱅크를 사용할 수 없음
+SplitNote_NoteTranspose_Label	Transpose Split Note:	분할 노트 트랜스포즈:
+SplitNote_PhoneticSymbolProtect_Label	Protect Phonetic Symbol:	발음 기호 잠금:
+SplitNote_ShortNoteAlert_Label	There are short notes that cannot be split.	너무 짧아서 분할할 수 없는 노트가 있습니다.
+SplitNote_SplitLength_Label	Split Length:	분할 길이:
+SplitNote_SplitMethodMelisuma_Label	- (Melisma)	- (멜리스마)
+SplitNote_SplitMethodOptionPhoeneticSymbol_Label	Specific Phonetic Symbol	임의의 발음 기호
+SplitNote_SplitMethodVowel_Label	Vowel (Japanese Only)	모음 (일본어 전용)
+SplitNote_SplitMethod_Label	Phonetic Symbols Split:	발음 기호 분할:
+SplitNote_SplitPositionBackward_Label	Backward Split	노트 끝부분 분할
+SplitNote_SplitPositionForward_Label	Forward Split	노트 앞부분 분할
+SplitNote_SplitPosition_Label	Split Position:	분할 위치:
+SplitNote_Title	Split Note	노트 분할
+StaccatoNote_Label	Staccato Type:	스타카토 종류:
+StaccatoNote_Medium	Medium	보통
+StaccatoNote_Strong	Strong	강하게
+StaccatoNote_Title	Staccato	스타카토
+StaccatoNote_Weak	Weak	약하게
+String_OpenEditorLineupURL	https://www.vocaloid.com/en/vocaloid6/buy/	https://www.vocaloid.com/en/vocaloid6/buy/
+String_OpenManualURL	https://rsc-net.vocaloid.com/assets/pdf_files/bb/VOCALOID_Reference_Manual_ENG.pdf	https://rsc-net.vocaloid.com/assets/pdf_files/bb/VOCALOID_Reference_Manual_ENG.pdf
+String_OpenOfficialSiteURL	https://www.vocaloid.com/en	https://www.vocaloid.com/en
+String_OpenTutorialURL	https://www.vocaloid.com/en/learn	https://www.vocaloid.com/en/learn
+StyleEditDlg_Title	Edit Style Preset Properties	스타일 프리셋 정보 편집
+StyleSaveAsDlg_AddNewTagDlg_TagName	Tag Name	태그 이름
+StyleSaveAsDlg_AddNewTagDlg_Title	Add	추가
+StyleSaveAsDlg_Button_AddNewColor	Add New Color	Color 추가
+StyleSaveAsDlg_Button_AddNewGenre	Add New Genre	Genre 추가
+StyleSaveAsDlg_Button_AddNewType	Add New Type	Type 추가
+StyleSaveAsDlg_NewStyle	(New)	(새 스타일)
+StyleSaveAsDlg_NewStylePresetName	New Style Preset Name	스타일 프리셋 이름
+StyleSaveAsDlg_SaveTargetListLabel	Save As	저장 대상
+StyleSaveAsDlg_StyleIsNotSelected	Style is not Selected.	스타일이 선택되지 않았습니다.
+StyleSaveAsDlg_SystemStyleCannot		같은 이름의 스타일 프리셋이 이미 있어 덮어쓸 수 없습니다.
+StyleSaveAsDlg_SystemStyleCannotOverwrite	A style preset with this name already exists. It cannot be overwritten.	같은 이름의 스타일 프리셋이 이미 있어 덮어쓸 수 없습니다.
+StyleSaveAsDlg_Title	Save Style	스타일 저장
+StyleSaveAsDlg_UserStyleOverwriteInfo	Overwrite style preset?	덮어쓰시겠습니까?
+TextBox_ContextMenu_Clear_Header	Clear	모두 지우기
+TextBox_ContextMenu_Copy_Gesture	Ctrl+C	Ctrl+C
+TextBox_ContextMenu_Copy_Header	Copy	복사
+TextBox_ContextMenu_Cut_Gesture	Ctrl+X	Ctrl+X
+TextBox_ContextMenu_Cut_Header	Cut	잘라내기
+TextBox_ContextMenu_Paste_Gesture	Ctrl+V	Ctrl+V
+TextBox_ContextMenu_Paste_Header	Paste	붙여넣기
+TextBox_ContextMenu_SelectAll_Gesture	Ctrl+A	Ctrl+A
+TextBox_ContextMenu_SelectAll_Header	Select All	모두 선택
+ToolBar_Amplitude_ToolTip	Expression	익스프레션
+ToolBar_Arrow_ToolTip	Arrow	화살표
+ToolBar_AttackReleaseEffect_ToolTip	Attack & Release Effect	어택 & 릴리스 이펙트
+ToolBar_AutoScroll_ToolTip	Auto Scroll	자동 스크롤
+ToolBar_Editor_ToolTip	Editor	에디터
+ToolBar_Emotion_ToolTip	Emotion	이모션
+ToolBar_Inspector_ToolTip	Inspector	인스펙터
+ToolBar_Line_ToolTip	Line	라인
+ToolBar_Media_ToolTip	Media	미디어
+ToolBar_Metronome_ToolTip	Metronome	메트로놈
+ToolBar_Mixer_ToolTip	Mixer	믹서
+ToolBar_Pencil_ToolTip	Pencil	연필
+ToolBar_PhonemeTiming_ToolTip	Timing	타이밍
+ToolBar_PitchEraser_ToolTip	Pitch Eraser	피치 지우개
+ToolBar_PitchPencil_ToolTip	Pitch Pencil	피치 연필
+ToolBar_Pitch_ToolTip	Pitch	피치
+ToolBar_Play_ToolTip	Play	재생
+ToolBar_Quantize_ToolTip	Grid	그리드
+ToolBar_Record_ToolTip	Record	녹음
+ToolBar_Repeat_ToolTip	Repeat	반복
+ToolBar_Scissors_ToolTip	Scissors	가위
+ToolBar_Stop_ToolTip	Stop	정지
+ToolBar_TogglePlaybackGuideSound_ToolTip	Acoustic Feedback	노트 미리 듣기
+ToolBar_Vibrato_ToolTip	Vibrato	비브라토
+ToolGroup_Line_Caption	Line	라인
+ToolGroup_Pencil_Caption	Pencil	연필
+ToolGroup_PitchEraser_Caption	Pitch Eraser	피치 지우개
+ToolGroup_PitchPencil_Caption	Pitch Pencil	피치 연필
+ToolGroup_Pitch_Caption	Pitch	피치
+TrackType_AI	VOCALOID:AI	VOCALOID:AI
+TrackType_VOCALOID	VOCALOID	VOCALOID
+TransposeNote_Label	Transpose:	트랜스포즈:
+TransposeNote_Title	Transpose	트랜스포즈
+VSGFailReason_API	API Error.	API 오류
+VSGFailReason_Network	Network Error.	네트워크 오류
+VSGFailReason_Other	Installation Error.	설치 오류
+VSGFailReason_Server	Server Error.	서버 오류
+VerifyLicene_DayRemaining	{0} day remaining	{0}일 남음
+VerifyLicene_DaysRemaining	{0} days remaining	{0}일 남음
+VerifyLicene_Ended	Ended	종료되었습니다.
+VerifyLicene_FreeTrial	Free trial	체험판 사용
+VerifyLicene_TrialPeriod	Trial period	체험 기간
+VerifyLicense_AuthorizeNow	Authorize now	지금 인증
+VerifyLicense_EditorNotAuthorized	VOCALOID6 Editor not authorized.\r\n\r\nPlease enter a valid VOCALOID6 serial code into the VOCALOID Authorizer.	VOCALOID6 Editor가 인증되지 않았습니다.\n\nVOCALOID Authorizer에서 VOCALOID6 시리얼 코드를 입력하여 인증해 주세요.
+VerifyLicense_EditorTrial	VOCALOID6 Editor not authorized.\r\n\r\nPlease enter a valid VOCALOID6 serial code into the VOCALOID Authorizer.\r\n\r\nAuthorize now?\r\n\r\n(Clicking [Authorize now] will launch the VOCALOID Authorizer.)	VOCALOID6 Editor가 인증되지 않았습니다.\n\nVOCALOID Authorizer에서 VOCALOID6 시리얼 코드를 입력하여 인증해 주세요.\n\n지금 인증하시겠습니까?\n\n([지금 인증]을 클릭하면 VOCALOID Authorizer가 실행됩니다.)
+VerifyLicense_EnterSerialNumber	Please enter the applicable serial code for this voice into the VOCALOID Authorizer.\r\n(Voicebanks whose authorization grace periods have expired will not play.)\r\n\r\nAuthorize now?\r\n\r\n(Clicking [Yes] will launch the VOCALOID Authorizer.)	VOCALOID Authorizer에서 해당 보이스의 시리얼 코드를 입력하여 인증해 주세요.\n(인증 유예 기간이 지난 보이스는 소리가 나지 않습니다)\n\n지금 인증하시겠습니까?\n\n([예]를 클릭하면 VOCALOID Authorizer가 실행됩니다.)
+VerifyLicense_EnterSerialNumberOrStartSplice	Please enter the applicable serial code for this voice into the VOCALOID Authorizer, or start splice and connect to the internet.\r\n(Voicebanks whose authorization grace periods have expired, or whose leases have expired, will not play.)\r\n\r\nAuthorize now?\r\n\r\n(Clicking [Yes] will launch the VOCALOID Authorizer.)	VOCALOID Authorizer에서 해당 보이스의 시리얼 코드를 입력하여 인증하거나, Splice를 실행하고 인터넷에 연결해 주세요.\n(인증 유예 기간이 지났거나 리스 기간이 만료된 보이스는 소리가 나지 않습니다)\n\n지금 인증하시겠습니까?\n\n([예]를 클릭하면 VOCALOID Authorizer가 실행됩니다.)
+VerifyLicense_Expired	Expired	만료됨
+VerifyLicense_ExpiredLeaseFile	Expired lease	리스 만료
+VerifyLicense_FailedLaunchAuthorizer	Failed to launch VOCALOID Authorizer.	VOCALOID Authorizer를 실행하지 못했습니다.
+VerifyLicense_LiteEditor1	Lite version does not support VST/AU functionality.	Lite 버전은 VST/AU 기능을 지원하지 않습니다.
+VerifyLicense_LiteEditor2	Please purchase the full-featured version.	정식 버전을 구매해 주세요.
+VerifyLicense_NoVoice	No voice has been installed.\r\n\r\nThe VOCALOID6 Editor requires at least one installed voice to launch.\r\n\r\nPlease install one separately.	설치된 보이스가 없습니다.\n\nVOCALOID6 Editor를 실행하려면 보이스가 하나 이상 설치되어 있어야 합니다.\n\n별도로 설치해 주세요.
+VerifyLicense_PurchaseLicense	Purchase a license	라이선스 구매
+VerifyLicense_Remaining	  (remaining {0} voices)	  (그 외 보이스 {0}개)
+VerifyLicense_UnsynthesizableVersion	Unavailable Version	사용할 수 없는 버전
+VerifyLicense_VoiceNotAuthorized	The following voice has not been authorized.	다음 보이스가 인증되지 않았습니다.
+VerifyLicense_VoiceNotAuthorizedOrExpiredLeaseFile	The following voice has not been authorized, or the lease has expired.	다음 보이스가 인증되지 않았거나 리스 기간이 만료되었습니다.
+VocaloChangerProgressDlg_Title	Progress	처리 중
+VoiceBanksVersionDlg_Languages_Chinese	Chinese	중국어
+VoiceBanksVersionDlg_Languages_English	English	영어
+VoiceBanksVersionDlg_Languages_Header	Languages	언어
+VoiceBanksVersionDlg_Languages_Japanese	Japanese	일본어
+VoiceBanksVersionDlg_Languages_Korean	Korean	한국어
+VoiceBanksVersionDlg_Languages_Spanish	Spanish	스페인어
+VoiceBanksVersionDlg_Latest	Latest	최신
+VoiceBanksVersionDlg_Name_Header	Voice Bank Name	보이스뱅크 이름
+VoiceBanksVersionDlg_SortMark_Asc	▲	▲
+VoiceBanksVersionDlg_SortMark_Desc	▼	▼
+VoiceBanksVersionDlg_Title	Voice Bank Version	보이스뱅크 버전
+VoiceBanksVersionDlg_Version_Header	Version	버전
+VoiceChangedDlg_ListTitle_NewVoice	New Voice Banks	변경 후 보이스뱅크
+VoiceChangedDlg_ListTitle_OriginalVoice	Original Voice Banks	변경 전 보이스뱅크
+VoiceChangedDlg_Msg1	The voice banks that are not installed are used in the project.	프로젝트에서 사용하는 보이스뱅크가 설치되어 있지 않습니다.
+VoiceChangedDlg_Msg2	They will be replaced with the installed ones.	설치된 보이스뱅크를 사용하도록 대체했습니다.
+VoiceChangedDlg_Title	Voice banks have not been installed	보이스뱅크가 설치되어 있지 않음
+VoiceChangedDlg_UninstalledVoice	Uninstalled Voice	미설치 보이스
+Window_Title	VOCALOID6 Editor	VOCALOID6 Editor
